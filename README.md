@@ -3,83 +3,69 @@
 Shri Narayan Pandey
   
 </H1>
-# YorFit E-Commerce Website
+# Shree Narayan Pandey - Resume
 
-## Project Overview
-YorFit is a full stack e-commerce website designed to provide customers with a seamless online shopping experience for clothing. The unique feature of this platform is the integration of machine learning techniques, including 3D Convolutional Neural Networks (CNNs), to suggest the best fitting clothing size based on customer video recordings.
+## Contact Information
+- **Phone**: 9045893362
+- **Email**: captionharsh@gmail.com
+- **LinkedIn**: [linkedin.com/in/shrinarayanpandey01](https://linkedin.com/in/shrinarayanpandey01)
+- **GitHub**: [github.com/ShriNarayanPandey01](https://github.com/ShriNarayanPandey01)
 
-## Features
-- **Product Listings**: Display of clothing items with details such as images, descriptions, prices, and sizes.
-- **User Authentication**: Secure user authentication and authorization.
-- **Shopping Cart**: Functionality to add, remove, and update items in the shopping cart.
-- **Order Management**: Users can place orders and track their purchase history.
-- **Video-Based Size Recommendation**: Customers can record videos to receive personalized clothing size recommendations using 3D CNN and machine learning models.
+## Education
+**Bachelor of Technology in Computer Science Engineering**  
+*Dr A.P.J. Abdul Kalam Technical University, Pranveer Singh Institute of Technology Kanpur*  
+*Graduating July 2025*  
+*Specialization: Artificial Intelligence and Machine Learning*  
+*GPA: 7.45*
 
-## Technologies Used
-- **Front-End**: React.js, Vite
-- **Back-End**: Node.js, Express.js
-- **Machine Learning**: TensorFlow
-- **Database**: MongoDB
-- **API Integration**: FastAPI
+## Technical Skills
+- **Front End Development**: React, Tailwind CSS, CSS, HTML, JavaScript
+- **Back End Development**: Node.js, Express
+- **Programming**: Python, Java, JavaScript
+- **Database**: MongoDB, MySQL
+- **Machine Learning**: Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
 
-## Installation and Setup
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/YourUsername/YorFit.git
-    cd YorFit
-    ```
+## Academic Projects
 
-2. **Install dependencies**:
-    ```bash
-    npm install
-    cd client
-    npm install
-    cd ..
-    ```
+### Crop Expert
+*March 2023 - May 2023*
+- Developed a React website to assist farmers in increasing crop yield using modern technology.
+- Utilized Firebase for authentication and database management, ensuring secure user access and efficient data handling.
+- Integrated a machine learning model to recommend crops based on NPK content, land area, temperature, and humidity, with data captured via NPK, Humidity, Moisture sensors and sent to Firebase using an Arduino board.
+- Implemented an image classification ResNet model to diagnose crop diseases from images posted by farmers.
 
-3. **Set up environment variables**:
-    Create a `.env` file in the root directory and add your environment variables (e.g., database URI, API keys).
+### BlogSpot
+*November 2023 - January 2024*
+- Developed a React-based website that allows users to post and view various articles.
+- Implemented state management using React Redux Store and handled client-side routing with React Router.
+- Designed the application using Tailwind CSS to ensure a modern and responsive design.
+- Handled form submissions with validation using React Hook Form.
+- Integrated Appwrite for database management and secure user authentication, providing real-time updates and seamless user interactions.
 
-4. **Run the development server**:
-    ```bash
-    npm run dev
-    ```
+### YorFit
+*January 2024 - Present*
+- Developing a full stack e-commerce website for Best Fit clothes using Vite.js, Node.js, and Express.js, providing a seamless online shopping experience.
+- Managed database operations using MongoDB, ensuring efficient data storage and retrieval.
+- Implementing machine learning models (3D CNN) using TensorFlow to suggest the best fitting clothing size based on customer 360 view video recordings.
+- Integrated FastAPI for backend services and machine learning model interactions, ensuring smooth communication between front-end and back-end.
 
-## Key Components
-- **Front-End**:
-  - Developed using React.js and Vite for efficient and fast development.
-  - Responsive design ensured with CSS/SCSS and styled-components.
-  - State management with React's Context API/Redux.
-  - Routing handled by React Router.
+## Achievements
+- Solved 500+ problems on LeetCode.
+- Achieved 5-star rating in problem-solving on Hackerrank.
+- Attained a 1605 rating in LeetCode contests.
 
-- **Back-End**:
-  - Server-side application built with Node.js and Express.js.
-  - RESTful APIs developed for communication between front-end and back-end.
-  - Integration with FastAPI for backend services and machine learning model interactions.
+## Certificates
+- **Introduction to Web Development with HTML, CSS, JavaScript** (IBM) - COURSERA
+- **Frontend Development with React** (IBM) - COURSERA
+- **Backend Development with Node** (IBM) - COURSERA
+- **Introduction to Cloud Computing** (IBM) - COURSERA
+- **Complete Machine Learning and Data Science Bootcamp 2023**
 
-- **Machine Learning**:
-  - Implemented 3D CNN using TensorFlow to analyze customer video recordings and suggest the best fitting clothing size.
-  - Utilized additional machine learning models for enhanced recommendations.
-
-- **Database**:
-  - Managed using MongoDB for efficient data storage and retrieval.
-  - Firebase used for authentication and secure user data handling.
-
-## Deployment
-- The application can be deployed on cloud hosting platforms such as Heroku, AWS, or Vercel for reliable and scalable access.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or inquiries, please contact:
-- **Shree Narayan Pandey**
-  - Email: captionharsh@gmail.com
-  - LinkedIn: [linkedin.com/in/shrinarayanpandey01](https://linkedin.com/in/shrinarayan
-
+## Contact Information
+For any inquiries, please reach out via:
+- **Email**: captionharsh@gmail.com
+- **LinkedIn**: [linkedin.com/in/shrinarayanpandey01](https://linkedin.com/in/shrinarayanpandey01)
+- **GitHub**: [github.com/ShriNarayanPandey01](https://github.com/ShriNarayanPandey01)
 <!--
 **ShriNarayanPandey01/ShriNarayanPandey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
