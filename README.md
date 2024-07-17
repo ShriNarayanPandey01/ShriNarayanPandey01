@@ -3,6 +3,8 @@
 Shri Narayan Pandey
   
 </H1>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShriNarayanPandey01&show_icons=true&theme=radical)
 # Shree Narayan Pandey - Resume
 
 ## Contact Information
