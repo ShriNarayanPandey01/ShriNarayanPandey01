@@ -56,14 +56,15 @@ Shri Narayan Pandey
 - Developed a multimodal travel assistant chatbot to support travel planning, personalized tips, and bookings,
   enhancing users’ travel experiences.
 - Integrated real-time hotel and flight search and booking functionality, with tailored recommendations delivered in
-  under 2 seconds..
-- Implementing machine learning models (3D CNN) using TensorFlow to suggest the best fitting clothing size based on customer 360 view video recordings.
+  under 2 seconds.
+- Achieved a 95% query success rate for accuracy and relevance in response
 - Integrated FastAPI for backend services and machine learning model interactions, ensuring smooth communication between front-end and back-end.
 
 ## Achievements
 - Solved 500+ problems on LeetCode.
 - Achieved 5-star rating in problem-solving on Hackerrank.
-- Attained a 1605 rating in LeetCode contests.
+- 88th Rank in Amazon ML Challenge 2024 among 50,000+ teams
+- 1700+ rating in LeetCode contests
 
 ## Certificates
 - **Introduction to Web Development with HTML, CSS, JavaScript** (IBM) - COURSERA
@@ -77,6 +78,7 @@ For any inquiries, please reach out via:
 - **Email**: captionharsh@gmail.com
 - **LinkedIn**: [linkedin.com/in/shrinarayanpandey01](https://linkedin.com/in/shrinarayanpandey01)
 - **GitHub**: [github.com/ShriNarayanPandey01](https://github.com/ShriNarayanPandey01)
+- **Leetcode**: [[github.com/ShriNarayanPandey01]](https://leetcode.com/u/Shri_Narayan_Pandey/)
 <!--
 **ShriNarayanPandey01/ShriNarayanPandey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
