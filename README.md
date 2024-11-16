@@ -50,6 +50,15 @@ Shri Narayan Pandey
 - Managed database operations using MongoDB, ensuring efficient data storage and retrieval.
 - Implementing machine learning models (3D CNN) using TensorFlow to suggest the best fitting clothing size based on customer 360 view video recordings.
 - Integrated FastAPI for backend services and machine learning model interactions, ensuring smooth communication between front-end and back-end.
+  
+### Travel-Assistant Chat Bot using Langchain
+*August 2024 - October 2024*
+- Developed a multimodal travel assistant chatbot to support travel planning, personalized tips, and bookings,
+  enhancing users’ travel experiences.
+- Integrated real-time hotel and flight search and booking functionality, with tailored recommendations delivered in
+  under 2 seconds..
+- Implementing machine learning models (3D CNN) using TensorFlow to suggest the best fitting clothing size based on customer 360 view video recordings.
+- Integrated FastAPI for backend services and machine learning model interactions, ensuring smooth communication between front-end and back-end.
 
 ## Achievements
 - Solved 500+ problems on LeetCode.
