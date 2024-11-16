@@ -21,11 +21,19 @@ Shri Narayan Pandey
 *GPA: 7.45*
 
 ## Technical Skills
-- **Front End Development**: React, Tailwind CSS, CSS, HTML, JavaScript
-- **Back End Development**: Node.js, Express
-- **Programming**: Python, Java, JavaScript
-- **Database**: MongoDB, MySQL
-- **Machine Learning**: Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras
+- **Languages**: Java, Python, HTML, CSS, Javascript, SQL
+- **Libraries/Frameworks**: Django, RESTful API, Node.js, React.js ,Express
+- **Tools/Platforms**: Git, GitHub, Postman , Jupyter notebook
+- **Machien Learning Tool**: Scikit-learn, Tensorflow, Pytorch, Numpy, pandas, matplot, LangChain , LLM
+- **Databases**: MySQL, MongoDb
+- **Subjects**: Operating System, Data Structures, Algorithms, Database Management System, Computer Networ
+
+## Experience
+
+###  Infosys Springboard Internship 5.0 (Artificial Intelligence and Machine learning)
+*October 8 - Present*
+- Currently enrolled in Infosys Springboard internshipe program where i am currently working on a project under the guidance of Industry Expert
+- I am working on a project MRI Based Breast Cancer detection using CNN
 
 ## Academic Projects
 
