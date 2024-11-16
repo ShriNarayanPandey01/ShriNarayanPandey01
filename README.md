@@ -18,7 +18,7 @@ Shri Narayan Pandey
 *Dr A.P.J. Abdul Kalam Technical University, Pranveer Singh Institute of Technology Kanpur*  
 *Graduating July 2025*  
 *Specialization: Artificial Intelligence and Machine Learning*  
-*GPA: 7.45*
+*GPA: 7.5*
 
 ## Technical Skills
 - **Languages**: Java, Python, HTML, CSS, Javascript, SQL
