@@ -31,7 +31,7 @@ Shri Narayan Pandey
 ## Experience
 
 ###  Infosys Springboard Internship 5.0 (Artificial Intelligence and Machine learning)
-*October 8 - Present*
+*October 2024 - December 2024
 - Currently enrolled in Infosys Springboard internshipe program where i am currently working on a project under the guidance of Industry Expert
 - I am working on a project MRI Based Breast Cancer detection using CNN
 
